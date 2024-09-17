@@ -1,4 +1,4 @@
-Expense Tracker Application
+
 This project is an Expense Tracker Application built using C++ and SQLite. It provides a simple and effective way to manage your expenses by enabling easy data operations like adding, updating, and deleting expense records, while also allowing for more advanced functionalities like searching and filtering.
 
 Key Features:
